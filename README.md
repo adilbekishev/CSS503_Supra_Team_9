@@ -2,8 +2,8 @@
 
 The vision of our team is, first of all, to collect high-quality data on electronic and household appliances for the daily use of people. We also hope that our little research can help people in some way. In the process of collecting data, we used not only local Kazakhstani sites, but also used foreign sites to provide an alternative to the analytics of the collected data.
 Here is a list of sites we used:
-* www.sulpak.kz
-* www.alser.kz
+* www.mechta.kz
+* www.sanmi.kz
 * www.evrika.com
 * www.bestbuy.com
 
