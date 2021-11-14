@@ -26,4 +26,6 @@ Dataset of refrigerators:
 
 Depending on the categories of equipment, some characteristics differ, for example, such devices as smartphones and laptops can have much more characteristics that the store provides, in contrast to the same refrigerators.
 
+For example, here is a diagram showing the average price of a TV depending on its brand:
 
+![alt text](https://github.com/adilbekishev/CSS503_Supra_Team_9/blob/main/tv_price_brand.PNG)
