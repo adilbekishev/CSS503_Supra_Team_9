@@ -1,0 +1,423 @@
+ID,Name,Price,Mark,Model,Diagonal,Processor,The amount of RAM,Videocard,The amount of internal memory
+s1,Apple MacBook Pro Intel Core i5 2.3GHz,661565.72,Apple,MacBook Pro,"13.3""",Intel Core i5 2.3GHz,8GB,Intel Iris Plus Graphics 640,128GB SSD
+s2,Apple Macbook Air Intel Core i5 1.8GHz,443914.55,Apple,Macbook Air,"13.3""",Intel Core i5 1.8GHz,8GB,Intel HD Graphics 6000,128GB Flash Storage
+s3,HP 250 G6 Intel Core i5 7200U 2.5GHz,283946.50,HP,250 G6,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+s4,Apple MacBook Pro Intel Core i7 2.7GHz,1253043.56,Apple,MacBook Pro,"15.4""",Intel Core i7 2.7GHz,16GB,AMD Radeon Pro 455,512GB SSD
+s5,Apple MacBook Pro Intel Core i5 3.1GHz,890653.75,Apple,MacBook Pro,"13.3""",Intel Core i5 3.1GHz,8GB,Intel Iris Plus Graphics 650,256GB SSD
+s6,Acer Aspire 3 AMD A9-Series 9420 3GHz,197528.00,Acer,Aspire 3,"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon R5,500GB HDD
+s7,Apple MacBook Pro Intel Core i7 2.2GHz,1056759.99,Apple,MacBook Pro,"15.4""",Intel Core i7 2.2GHz,16GB,Intel Iris Pro Graphics,256GB Flash Storage
+s8,Apple Macbook Air Intel Core i5 1.8GHz,572189.23,Apple,Macbook Air,"13.3""",Intel Core i5 1.8GHz,8GB,Intel HD Graphics 6000,256GB Flash Storage
+s9,Asus ZenBook UX430UN Intel Core i7 8550U 1.8GHz,738260.90,Asus,ZenBook UX430UN,"14.0""",Intel Core i7 8550U 1.8GHz,16GB,Nvidia GeForce MX150,512GB SSD
+s10,Acer Swift 3 Intel Core i5 8250U 1.6GHz,380241.40,Acer,Swift 3,"14.0""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s11,HP 250 G6 Intel Core i5 7200U 2.5GHz,194515.70,HP,250 G6,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,500GB HDD
+s12,HP 250 G6 Intel Core i3 6006U 2GHz,170362.96,HP,250 G6,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,500GB HDD
+s13,Apple MacBook Pro Intel Core i7 2.8GHz,1204905.99,Apple,MacBook Pro,"15.4""",Intel Core i7 2.8GHz,16GB,AMD Radeon Pro 555,256GB SSD
+s14,Dell Inspiron 3567 Intel Core i3 6006U 2GHz,246366.80,Dell,Inspiron 3567,"15.6""",Intel Core i3 6006U 2GHz,4GB,AMD Radeon R5 M430,256GB SSD
+s15,"Apple MacBook 12"" Intel Core M m3 1.2GHz",623398.37,Apple,"MacBook 12""","12.0""",Intel Core M m3 1.2GHz,8GB,Intel HD Graphics 615,256GB SSD
+s16,Apple MacBook Pro Intel Core i5 2.3GHz,749890.36,Apple,MacBook Pro,"13.3""",Intel Core i5 2.3GHz,8GB,Intel Iris Plus Graphics 640,256GB SSD
+s17,Dell Inspiron 3567 Intel Core i7 7500U 2.7GHz,367895.90,Dell,Inspiron 3567,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,AMD Radeon R5 M430,256GB SSD
+s18,Apple MacBook Pro Intel Core i7 2.9GHz,1411337.56,Apple,MacBook Pro,"15.4""",Intel Core i7 2.9GHz,16GB,AMD Radeon Pro 560,512GB SSD
+s19,Lenovo IdeaPad 320-15IKB Intel Core i3 7100U 2.4GHz,246416.18,Lenovo,IdeaPad 320-15IKB,"15.6""",Intel Core i3 7100U 2.4GHz,8GB,Nvidia GeForce 940MX,1TB HDD
+s20,Dell XPS 13 Intel Core i5 8250U 1.6GHz,483449.78,Dell,XPS 13,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,128GB SSD
+s21,Asus Vivobook E200HA Intel Atom x5-Z8350 1.44GHz,94764.06,Asus,Vivobook E200HA,"11.6""",Intel Atom x5-Z8350 1.44GHz,2GB,Intel HD Graphics 400,32GB Flash Storage
+s22,Lenovo Legion Y520-15IKBN Intel Core i5 7300HQ 2.5GHz,493326.18,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,128GB SSD +  1TB HDD
+s23,HP 255 G6 AMD E-Series E2-9000e 1.5GHz,127405.56,HP,255 G6,"15.6""",AMD E-Series E2-9000e 1.5GHz,4GB,AMD Radeon R2,500GB HDD
+s24,Dell Inspiron 5379 Intel Core i5 8250U 1.6GHz,404438.58,Dell,Inspiron 5379,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s25,HP 15-BS101nv (i7-8550U/8GB/256GB/FHD/W10) Intel Core i7 8550U 1.8GHz,325427.38,HP,15-BS101nv (i7-8550U/8GB/256GB/FHD/W10),"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Intel HD Graphics 620,256GB SSD
+s26,Dell Inspiron 3567 Intel Core i3 6006U 2GHz,206732.80,Dell,Inspiron 3567,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,1TB HDD
+s27,Apple MacBook Air Intel Core i5 1.6GHz,542708.18,Apple,MacBook Air,"13.3""",Intel Core i5 1.6GHz,8GB,Intel HD Graphics 6000,128GB Flash Storage
+s28,Dell Inspiron 5570 Intel Core i5 8250U 1.6GHz,395056.00,Dell,Inspiron 5570,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 530,256GB SSD
+s29,Dell Latitude 5590 Intel Core i7 8650U 1.9GHz,640978.36,Dell,Latitude 5590,"15.6""",Intel Core i7 8650U 1.9GHz,8GB,Intel UHD Graphics 620,256GB SSD +  256GB SSD
+s30,HP ProBook 470 Intel Core i5 8250U 1.6GHz,442462.72,HP,ProBook 470,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce 930MX,1TB HDD
+s31,"Chuwi LapBook 15.6"" Intel Atom x5-Z8300 1.44GHz",120980.96,Chuwi,"LapBook 15.6""","15.6""",Intel Atom x5-Z8300 1.44GHz,4GB,Intel HD Graphics,64GB Flash Storage
+s32,Asus E402WA-GA010T (E2-6110/2GB/32GB/W10) AMD E-Series E2-6110 1.5GHz,98270.18,Asus,E402WA-GA010T (E2-6110/2GB/32GB/W10),"14.0""",AMD E-Series E2-6110 1.5GHz,2GB,AMD Radeon R2,32GB Flash Storage
+s33,HP 17-ak001nv (A6-9220/4GB/500GB/Radeon AMD A6-Series 9220 2.5GHz,216786.98,HP,17-ak001nv (A6-9220/4GB/500GB/Radeon,"17.3""",AMD A6-Series 9220 2.5GHz,4GB,AMD Radeon 530,500GB HDD
+s34,Dell XPS 13 Intel Core i7 8550U 1.8GHz,922949.58,Dell,XPS 13,"13.3""",Intel Core i7 8550U 1.8GHz,16GB,Intel UHD Graphics 620,512GB SSD
+s35,Apple MacBook Air Intel Core i5 1.6GHz,492832.36,Apple,MacBook Air,"13.3""",Intel Core i5 1.6GHz,8GB,Intel HD Graphics 6000,256GB Flash Storage
+s36,Lenovo IdeaPad 120S-14IAP Intel Celeron Dual Core N3350 1.1GHz,122961.18,Lenovo,IdeaPad 120S-14IAP,"14.0""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,64GB Flash Storage
+s37,Acer Aspire 3 Intel Core i3 7130U 2.7GHz,181231.94,Acer,Aspire 3,"15.6""",Intel Core i3 7130U 2.7GHz,4GB,Intel HD Graphics 620,1TB HDD
+s38,Dell Inspiron 5770 Intel Core i5 8250U 1.6GHz,483449.78,Dell,Inspiron 5770,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 530,128GB SSD +  1TB HDD
+s39,HP 250 G6 Intel Core i5 7200U 2.5GHz,241324.90,HP,250 G6,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,1TB HDD
+s40,HP ProBook 450 Intel Core i5 8250U 1.6GHz,434067.78,HP,ProBook 450,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce 930MX ,256GB SSD
+s41,Asus X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux) Intel Core i3 6006U 2GHz,192095.98,Asus,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 620,1TB HDD
+s42,Dell Inspiron 7577 Intel Core i7 7700HQ 2.8GHz,740236.18,Dell,Inspiron 7577,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,256GB SSD +  1TB HDD
+s43,Asus X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce Intel Core i5 7200U 2.5GHz,258262.92,Asus,X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce 940MX,1TB HDD
+s44,Acer Aspire A515-51G Intel Core i5 8250U 1.6GHz,336785.24,Acer,Aspire A515-51G,"15.6""",Intel Core i5 8250U 1.6GHz,4GB,Intel UHD Graphics 620,256GB SSD
+s45,Dell Inspiron 7773 Intel Core i5 8250U 1.6GHz,493326.18,Dell,Inspiron 7773,"17.3""",Intel Core i5 8250U 1.6GHz,12GB,Nvidia GeForce 150MX,1TB HDD
+s46,Apple MacBook Pro Intel Core i5 2.0GHz,700730.58,Apple,MacBook Pro,"13.3""",Intel Core i5 2.0GHz,8GB,Intel Iris Graphics 540,256GB SSD
+s47,Lenovo IdeaPad 320-15ISK Intel Core i3 6006U 2GHz,182219.58,Lenovo,IdeaPad 320-15ISK,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,128GB SSD
+s48,Asus Rog Strix AMD Ryzen 1700 3GHz,641472.18,Asus,Rog Strix,"17.3""",AMD Ryzen 1700 3GHz,8GB,AMD Radeon RX 580,256GB SSD +  1TB HDD
+s49,Dell Inspiron 3567 Intel Core i5 7200U 2.5GHz,315550.98,Dell,Inspiron 3567,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,AMD Radeon R5 M430,256GB SSD
+s50,Asus X751NV-TY001T (N4200/4GB/1TB/GeForce Intel Pentium Quad Core N4200 1.1GHz,230120.12,Asus,X751NV-TY001T (N4200/4GB/1TB/GeForce,"17.3""",Intel Pentium Quad Core N4200 1.1GHz,4GB,Nvidia GeForce 920MX,1TB HDD
+s51,Lenovo Yoga Book Intel Atom x5-Z8550 1.44GHz,157528.58,Lenovo,Yoga Book,"10.1""",Intel Atom x5-Z8550 1.44GHz,4GB,Intel HD Graphics 400,64GB Flash Storage
+s52,Acer Aspire A515-51G Intel Core i7 8550U 1.8GHz,415302.62,Acer,Aspire A515-51G,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce MX150,256GB SSD
+s53,HP 255 G6 AMD A6-Series 9220 2.5GHz,196782.33,HP,255 G6,"15.6""",AMD A6-Series 9220 2.5GHz,4GB,AMD Radeon R4 Graphics,256GB SSD
+s54,HP ProBook 430 Intel Core i7 8550U 1.8GHz,544683.46,HP,ProBook 430,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,512GB SSD
+s55,Acer Aspire 3 Intel Core i3 7100U 2.4GHz,189626.88,Acer,Aspire 3,"15.6""",Intel Core i3 7100U 2.4GHz,4GB,Intel HD Graphics 620,1TB HDD
+s56,Dell Inspiron 3576 Intel Core i7 8550U 1.8GHz,379155.00,Dell,Inspiron 3576,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 520,256GB SSD
+s57,HP 15-bs002nv (i3-6006U/4GB/128GB/FHD/W10) Intel Core i3 6006U 2GHz,216786.98,HP,15-bs002nv (i3-6006U/4GB/128GB/FHD/W10),"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,128GB SSD
+s58,Asus VivoBook Max Intel Core i5 7200U 2.5GHz,289472.35,Asus,VivoBook Max,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,256GB SSD
+s59,MSI GS73VR 7RG Intel Core i7 7700HQ 2.8GHz,1209365.18,MSI,GS73VR 7RG,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1070,256GB SSD +  2TB HDD
+s60,Asus X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux) Intel Core i3 6006U 2GHz,204935.30,Asus,X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux),"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,256GB SSD
+s61,Dell Inspiron 5770 Intel Core i7 8550U 1.8GHz,641472.18,Dell,Inspiron 5770,"17.3""",Intel Core i7 8550U 1.8GHz,16GB,AMD Radeon 530,256GB SSD +  2TB HDD
+s62,Dell Vostro 5471 Intel Core i5 8250U 1.6GHz,434067.78,Dell,Vostro 5471,"14.0""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s63,Lenovo IdeaPad 520S-14IKB Intel Core i3 7130U 2.7GHz,295798.18,Lenovo,IdeaPad 520S-14IKB,"14.0""",Intel Core i3 7130U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+s64,Asus UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10) Intel Core i5 8250U 1.6GHz,464684.62,Asus,UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10),"14.0""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s65,HP 250 G6 Intel Core i5 7200U 2.5GHz,340735.80,HP,250 G6,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+s66,Asus ZenBook Pro Intel Core i7 7700HQ 2.8GHz,979245.06,Asus,ZenBook Pro,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050 Ti,512GB SSD
+s67,HP 250 G6 Intel Core i3 6006U 2GHz,216633.90,HP,250 G6,"15.6""",Intel Core i3 6006U 2GHz,4GB,AMD Radeon 520,500GB HDD
+s68,HP Stream 14-AX040wm Intel Celeron Dual Core N3060 1.6GHz,113084.78,HP,Stream 14-AX040wm,"14.0""",Intel Celeron Dual Core N3060 1.6GHz,4GB,Intel HD Graphics 400,32GB SSD
+s69,Lenovo V310-15ISK (i5-7200U/4GB/1TB/FHD/W10) Intel Core i5 7200U 2.5GHz,271107.18,Lenovo,V310-15ISK (i5-7200U/4GB/1TB/FHD/W10),"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,1TB HDD
+s70,Asus FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce Intel Core i7 7700HQ 2.8GHz,468635.18,Asus,FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce,"17.3""",Intel Core i7 7700HQ 2.8GHz,12GB,Nvidia GeForce GTX 1050 Ti,1TB HDD
+s71,Microsoft Surface Laptop Intel Core i5 7200U 2.5GHz,537769.98,Microsoft,Surface Laptop,"13.5""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,128GB SSD
+s72,Dell Inspiron 5370 Intel Core i7 8550U 1.8GHz,471598.10,Dell,Inspiron 5370,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,256GB SSD
+s73,Dell Inspiron 5570 Intel Core i7 8550U 1.8GHz,429623.40,Dell,Inspiron 5570,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,256GB SSD
+s74,MSI GL72M 7RDX Intel Core i5 7300HQ 2.5GHz,540732.90,MSI,GL72M 7RDX,"17.3""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,128GB SSD +  1TB HDD
+s75,Acer Aspire E5-475 Intel Core i3 6006U 2GHz,192095.98,Acer,Aspire E5-475,"14.0""",Intel Core i3 6006U 2GHz,8GB,Intel HD Graphics 520,1TB HDD
+s76,Asus FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce Intel Core i7 7700HQ 2.8GHz,468635.18,Asus,FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,1TB HDD
+s77,Lenovo IdeaPad 320-15IKBN Intel Core i5 7200U 2.5GHz,256292.58,Lenovo,IdeaPad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,2TB HDD
+s78,Dell Inspiron 5570 Intel Core i7 8550U 1.8GHz,422216.10,Dell,Inspiron 5570,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,128GB SSD +  1TB HDD
+s79,Acer Aspire A515-51G-32MX Intel Core i3 7130U 2.7GHz,261724.60,Acer,Aspire A515-51G-32MX,"15.6""",Intel Core i3 7130U 2.7GHz,4GB,Nvidia GeForce MX130,1TB HDD
+s80,HP ProBook 470 Intel Core i5 8250U 1.6GHz,482462.14,HP,ProBook 470,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce 930MX,128GB SSD +  1TB HDD
+s81,Dell Latitude 5590 Intel Core i5 8250U 1.6GHz,541305.73,Dell,Latitude 5590,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s82,"Apple MacBook 12"" Intel Core i5 1.3GHz",745668.20,Apple,"MacBook 12""","12.0""",Intel Core i5 1.3GHz,8GB,Intel HD Graphics 615,512GB SSD
+s83,HP ProBook 440 Intel Core i5 8250U 1.6GHz,424685.20,HP,ProBook 440,"14.0""",Intel Core i5 8250U 1.6GHz,8GB,Intel HD Graphics 620,256GB SSD
+s84,Lenovo IdeaPad 320-15AST AMD A6-Series 9220 2.5GHz,197034.18,Lenovo,IdeaPad 320-15AST,"15.6""",AMD A6-Series 9220 2.5GHz,4GB,AMD R4 Graphics,128GB SSD
+s85,Acer Aspire 3 AMD A9-Series 9420 3GHz,195058.90,Acer,Aspire 3,"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon R5,1TB HDD
+s86,Dell Inspiron 7577 Intel Core i7 7700HQ 2.8GHz,666163.18,Dell,Inspiron 7577,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050 Ti,128GB SSD +  1TB HDD
+s87,HP Pavilion 15-CK000nv Intel Core i7 8550U 1.8GHz,345180.18,HP,Pavilion 15-CK000nv,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce GTX 940MX,256GB SSD
+s88,HP 250 G6 Intel Core i5 7200U 2.5GHz,295793.24,HP,250 G6,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+s89,Asus FX503VM-E4007T (i7-7700HQ/16GB/1TB Intel Core i7 7700HQ 2.8GHz,715545.18,Asus,FX503VM-E4007T (i7-7700HQ/16GB/1TB,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,128GB SSD +  1TB HDD
+s90,Dell XPS 13 Intel Core i7 8550U 1.8GHz,814309.18,Dell,XPS 13,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s91,Asus FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon AMD FX 9830P 3GHz,345180.18,Asus,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,"15.6""",AMD FX 9830P 3GHz,8GB,AMD Radeon RX 560,1TB HDD
+s92,Acer Aspire 5 Intel Core i7 8550U 1.8GHz,340241.98,Acer,Aspire 5,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce MX150,1TB HDD
+s93,HP Probook 430 Intel Core i7 8550U 1.8GHz,591102.54,HP,Probook 430,"13.3""",Intel Core i7 8550U 1.8GHz,16GB,Intel UHD Graphics 620,512GB SSD
+s94,Dell Inspiron 7577 Intel Core i5 7300HQ 2.5GHz,590114.90,Dell,Inspiron 7577,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1060,256GB SSD
+s95,Asus Zenbook UX430UA Intel Core i7 7500U 2.7GHz,518017.18,Asus,Zenbook UX430UA,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+s96,Acer Spin 5 Intel Core i5 8250U 1.6GHz,418265.54,Acer,Spin 5,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s97,Dell Inspiron 3567 Intel Core i7 7500U 2.7GHz,296242.62,Dell,Inspiron 3567,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,AMD Radeon R5 M430,1TB HDD
+s98,Dell Inspiron 3567 Intel Core i3 6006U 2GHz,239502.70,Dell,Inspiron 3567,"15.6""",Intel Core i3 6006U 2GHz,4GB,AMD Radeon R5 M430,256GB SSD
+s99,Asus X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce Intel Core i3 7100U 2.4GHz,284934.14,Asus,X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce,"15.6""",Intel Core i3 7100U 2.4GHz,6GB,Nvidia GeForce 920M,256GB SSD
+s100,HP Omen 15-ce007nv Intel Core i7 7700HQ 2.8GHz,616781.18,HP,Omen 15-ce007nv,"15.6""",Intel Core i7 7700HQ 2.8GHz,12GB,Nvidia GeForce GTX 1050,128GB SSD +  1TB HDD
+s101,HP 15-bs017nv (i7-7500U/8GB/256GB/Radeon Intel Core i7 7500U 2.7GHz,355056.58,HP,15-bs017nv (i7-7500U/8GB/256GB/Radeon,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,AMD Radeon 530,256GB SSD
+s102,HP 15-bw000nv (E2-9000e/4GB/500GB/Radeon AMD E-Series E2-9000e 1.5GHz,172343.18,HP,15-bw000nv (E2-9000e/4GB/500GB/Radeon,"15.6""",AMD E-Series E2-9000e 1.5GHz,4GB,AMD Radeon R2,500GB HDD
+s103,Dell Inspiron 3576 Intel Core i5 8250U 1.6GHz,319501.54,Dell,Inspiron 3576,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 520,1TB HDD
+s104,HP Envy 13-ad009n Intel Core i7 7500U 2.7GHz,552584.58,HP,Envy 13-ad009n,"13.3""",Intel Core i7 7500U 2.7GHz,8GB,Nvidia GeForce MX150,256GB SSD
+s105,Microsoft Surface Laptop Intel Core i5 7200U 2.5GHz,661718.80,Microsoft,Surface Laptop,"13.5""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+s106,HP Pavilion 14-BK001nv Intel Core i5 7200U 2.5GHz,325427.38,HP,Pavilion 14-BK001nv,"14.0""",Intel Core i5 7200U 2.5GHz,6GB,Nvidia GeForce 940MX,256GB SSD
+s107,Lenovo Ideapad 310-15ISK Intel Core i3 6006U 2GHz,204885.92,Lenovo,Ideapad 310-15ISK,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,1TB HDD
+s108,Asus UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce Intel Core i7 7500U 2.7GHz,589127.26,Asus,UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+s109,MSI GP62M 7REX Intel Core i7 7700HQ 2.8GHz,641472.18,MSI,GP62M 7REX,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050 Ti,256GB SSD +  1TB HDD
+s110,Lenovo Thinkpad T470 Intel Core i7 7500U 2.7GHz,730853.60,Lenovo,Thinkpad T470,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+s111,Asus VivoBook S15 Intel Core i7 8550U 1.8GHz,623200.84,Asus,VivoBook S15,"15.6""",Intel Core i7 8550U 1.8GHz,16GB,Nvidia GeForce MX150,256GB SSD +  1TB HDD
+s112,Dell XPS 13 Intel Core i7 7560U 2.4GHz,680977.78,Dell,XPS 13,"13.3""",Intel Core i7 7560U 2.4GHz,8GB,Intel Iris Plus Graphics 640,256GB SSD
+s113,Lenovo ThinkPad Yoga Intel Core i5 7200U 2.5GHz,690854.18,Lenovo,ThinkPad Yoga,"13.3""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+s114,HP Probook 440 Intel Core i5 8250U 1.6GHz,356538.04,HP,Probook 440,"14.0""",Intel Core i5 8250U 1.6GHz,4GB,Intel UHD Graphics 620,500GB HDD
+s115,Dell XPS 13 Intel Core i5 8250U 1.6GHz,804432.78,Dell,XPS 13,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s116,HP Spectre x360 Intel Core i5 8250U 1.6GHz,690849.24,HP,Spectre x360,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s117,HP Probook 440 Intel Core i7 8550U 1.8GHz,535300.88,HP,Probook 440,"14.0""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,512GB SSD
+s118,Dell Inspiron 7570 Intel Core i7 8550U 1.8GHz,558179.56,Dell,Inspiron 7570,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce 940MX,256GB SSD +  1TB HDD
+s119,Asus X705UV-BX074T (i3-6006U/4GB/1TB/GeForce Intel Core i3 6006U 2GHz,278514.48,Asus,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,"17.3""",Intel Core i3 6006U 2GHz,4GB,Nvidia GeForce 920MX,1TB HDD
+s120,Asus VivoBook S15 Intel Core i7 8550U 1.8GHz,552090.76,Asus,VivoBook S15,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+s121,Acer Spin 3 Intel Core i3 7100U 2.4GHz,236539.78,Acer,Spin 3,"15.6""",Intel Core i3 7100U 2.4GHz,6GB,Intel HD Graphics 620,1TB HDD
+s122,MSI GS63VR 7RG Intel Core i7 7700HQ 2.8GHz,1106897.53,MSI,GS63VR 7RG,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1070,256GB SSD +  2TB HDD
+s123,Lenovo IdeaPad 320-15IKBN Intel Core i5 7200U 2.5GHz,310612.78,Lenovo,IdeaPad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+s124,HP Probook 470 Intel Core i7 8550U 1.8GHz,627645.22,HP,Probook 470,"17.3""",Intel Core i7 8550U 1.8GHz,16GB,Nvidia GeForce 930MX ,512GB SSD
+s125,Acer Aspire 3 AMD A9-Series 9420 3GHz,222712.82,Acer,Aspire 3,"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon R5,256GB SSD
+s126,HP 250 G6 Intel Celeron Dual Core N3060 1.6GHz,127899.38,HP,250 G6,"15.6""",Intel Celeron Dual Core N3060 1.6GHz,4GB,Intel HD Graphics 400,500GB HDD
+s127,HP Probook 440 Intel Core i5 8250U 1.6GHz,400981.84,HP,Probook 440,"14.0""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,1TB HDD
+s128,Asus E402WA-GA007T (E2-6110/4GB/64GB/W10 AMD E-Series 6110 1.5GHz,137277.02,Asus,E402WA-GA007T (E2-6110/4GB/64GB/W10,"14.0""",AMD E-Series 6110 1.5GHz,4GB,AMD Radeon R2,64GB SSD
+s129,Dell Inspiron 5770 Intel Core i7 8550U 1.8GHz,689372.72,Dell,Inspiron 5770,"17.3""",Intel Core i7 8550U 1.8GHz,16GB,AMD Radeon 530,256GB SSD +  2TB HDD
+s130,HP ProBook 470 Intel Core i5 8250U 1.6GHz,458264.96,HP,ProBook 470,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s131,Dell Inspiron 5567 Intel Core i5 7200U 2.5GHz,315546.04,Dell,Inspiron 5567,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,AMD Radeon R7 M445,1TB HDD
+s132,Dell Inspiron 3567 Intel Core i3 6006U 2GHz,221725.18,Dell,Inspiron 3567,"15.6""",Intel Core i3 6006U 2GHz,4GB,AMD Radeon R5 M430,1TB HDD
+s133,Acer Swift 3 Intel Core i7 8550U 1.8GHz,436536.88,Acer,Swift 3,"14.0""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+s134,Acer Aspire A515-51G-37JS Intel Core i3 7130U 2.7GHz,282465.04,Acer,Aspire A515-51G-37JS,"15.6""",Intel Core i3 7130U 2.7GHz,4GB,Nvidia GeForce MX130,256GB SSD
+s135,HP 15-BS078nr (i7-7500U/8GB/1TB/W10) Intel Core i7 7500U 2.7GHz,295304.36,HP,15-BS078nr (i7-7500U/8GB/1TB/W10),"15.6""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,1TB HDD
+a1,HP Probook 440 Intel Core i7 8550U 1.8GHz,487894.16,HP,Probook 440,"14.0""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a2,Lenovo V110-15IAP (N3350/4GB/1TB/No Intel Celeron Dual Core N3350 1.1GHz,124620.42,Lenovo,V110-15IAP (N3350/4GB/1TB/No,"15.6""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,1TB HDD
+a3,Asus FX753VD-GC086T (i5-7300HQ/8GB/1TB Intel Core i5 7300HQ 2.5GHz,463203.16,Asus,FX753VD-GC086T (i5-7300HQ/8GB/1TB,"17.3""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,128GB SSD +  1TB HDD
+a4,Lenovo IdeaPad 320-15IKBN Intel Core i5 7200U 2.5GHz,246416.18,Lenovo,IdeaPad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Nvidia GeForce 920MX,1TB HDD
+a5,HP Envy 13-AD007nv Intel Core i5 7200U 2.5GHz,345180.18,HP,Envy 13-AD007nv,"13.3""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,256GB SSD
+a6,Acer Aspire 5 Intel Core i3 7130U 2.7GHz,323452.10,Acer,Aspire 5,"17.3""",Intel Core i3 7130U 2.7GHz,4GB,Nvidia GeForce MX130,1TB HDD
+a7,Lenovo ThinkPad E480 Intel Core i5 8250U 1.6GHz,551113.00,Lenovo,ThinkPad E480,"14.0""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon RX 550,256GB SSD
+a8,Lenovo Legion Y520-15IKBN Intel Core i7 7700HQ 2.8GHz,429129.58,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050M,256GB SSD
+a9,Toshiba Satellite Pro Intel Core i5 6200U 2.3GHz,297279.64,Toshiba,Satellite Pro,"15.6""",Intel Core i5 6200U 2.3GHz,4GB,Intel HD Graphics 520,500GB HDD
+a10,HP 255 G6 AMD A6-Series 9220 2.5GHz,182219.58,HP,255 G6,"15.6""",AMD A6-Series 9220 2.5GHz,4GB,AMD Radeon R4 Graphics,256GB SSD
+a11,Asus ZenBook UX430UA Intel Core i7 8550U 1.8GHz,542708.18,Asus,ZenBook UX430UA,"14.0""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a12,HP EliteBook Folio Intel Core M 6Y75 1.2GHz,994553.48,HP,EliteBook Folio,"12.5""",Intel Core M 6Y75 1.2GHz,8GB,Intel HD Graphics 515,512GB SSD
+a13,Asus X541NA (N3350/4GB/1TB/FHD/W10) Intel Celeron Dual Core N3350 1.1GHz,169874.08,Asus,X541NA (N3350/4GB/1TB/FHD/W10),"15.6""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,1TB HDD
+a14,MSI GE72MVR 7RG Intel Core i7 7700HQ 2.8GHz,1001960.78,MSI,GE72MVR 7RG,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1070,256GB SSD +  1TB HDD
+a15,Acer Aspire A315-51 Intel Core i3 6006U 2GHz,220737.54,Acer,Aspire A315-51,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,1TB HDD
+a16,Dell Inspiron 5577 Intel Core i7 7700HQ 2.8GHz,616909.57,Dell,Inspiron 5577,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050,512GB SSD
+a17,Dell Inspiron 7567 Intel Core i7 7700HQ 2.8GHz,443944.18,Dell,Inspiron 7567,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,1TB Hybrid
+a18,Lenovo V110-15IKB (i5-7200U/4GB/128GB/W10) Intel Core i5 7200U 2.5GHz,245922.36,Lenovo,V110-15IKB (i5-7200U/4GB/128GB/W10),"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,128GB SSD
+a19,MSI GE73VR 7RE Intel Core i7 7700HQ 2.8GHz,933319.80,MSI,GE73VR 7RE,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,256GB SSD +  1TB HDD
+a20,HP EliteBook 840 Intel Core i5 7500U 2.7GHz,534313.24,HP,EliteBook 840,"14.0""",Intel Core i5 7500U 2.7GHz,4GB,Intel HD Graphics 620,256GB SSD
+a21,HP 15-BS103nv (i5-8250U/6GB/256GB/Radeon Intel Core i5 8250U 1.6GHz,305674.58,HP,15-BS103nv (i5-8250U/6GB/256GB/Radeon,"15.6""",Intel Core i5 8250U 1.6GHz,6GB,AMD Radeon 520,256GB SSD
+a22,Lenovo Yoga 520-14IKB Intel Core i3 7100U 2.4GHz,310612.78,Lenovo,Yoga 520-14IKB,"14.0""",Intel Core i3 7100U 2.4GHz,4GB,Intel HD Graphics 620,256GB SSD
+a23,Asus ZenBook Flip Intel Core i5 8250U 1.6GHz,649373.30,Asus,ZenBook Flip,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel HD Graphics 620,256GB SSD
+a24,Dell Inspiron 5579 Intel Core i7 8550U 1.8GHz,518017.18,Dell,Inspiron 5579,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a25,Toshiba Satellite Pro Intel Core i3 6006U 2.2GHz,220737.54,Toshiba,Satellite Pro,"15.6""",Intel Core i3 6006U 2.2GHz,4GB,Intel HD Graphics 520,500GB HDD
+a26,Asus X555BP-XX180T (A9-9420/4GB/1TB/Radeon AMD A9-Series 9420 3GHz,199009.46,Asus,X555BP-XX180T (A9-9420/4GB/1TB/Radeon,"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon R5 M420,1TB HDD
+a27,Acer Aspire A517-51G Intel Core i5 8250U 1.6GHz,397525.10,Acer,Aspire A517-51G,"17.3""",Intel Core i5 8250U 1.6GHz,4GB,Nvidia GeForce MX150,256GB SSD
+a28,Dell Inspiron 3576 Intel Core i5 8250U 1.6GHz,359500.96,Dell,Inspiron 3576,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 520,256GB SSD
+a29,Lenovo Legion Y520-15IKBN Intel Core i7 7700HQ 2.8GHz,532831.78,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050 Ti,256GB SSD
+a30,Acer Aspire A315-31 Intel Celeron Dual Core N3350 1.1GHz,171849.36,Acer,Aspire A315-31,"15.6""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,1TB HDD
+a31,MSI GE63VR 7RE Intel Core i7 7700HQ 2.8GHz,888382.18,MSI,GE63VR 7RE,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,256GB SSD +  1TB HDD
+a32,Acer Aspire 3 Intel Pentium Quad Core N4200 1.1GHz,179508.51,Acer,Aspire 3,"15.6""",Intel Pentium Quad Core N4200 1.1GHz,4GB,Intel HD Graphics 505,1TB HDD
+a33,Dell Inspiron 5577 Intel Core i7 7700HQ 2.8GHz,523691.17,Dell,Inspiron 5577,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,128GB SSD +  1TB HDD
+a34,Acer Aspire A517-51G Intel Core i5 8250U 1.6GHz,421722.28,Acer,Aspire A517-51G,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce MX150,256GB SSD
+a35,HP ProBook 430 Intel Core i5 8250U 1.6GHz,372340.28,HP,ProBook 430,"13.3""",Intel Core i5 8250U 1.6GHz,4GB,Intel UHD Graphics 620,500GB HDD
+a36,Huawei MateBook X Intel Core i5 7200U 2.5GHz,666163.18,Huawei,MateBook X,"13.0""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+a37,HP 17-bs001nv (i5-7200U/6GB/2TB/Radeon Intel Core i5 7200U 2.5GHz,345180.18,HP,17-bs001nv (i5-7200U/6GB/2TB/Radeon,"17.3""",Intel Core i5 7200U 2.5GHz,6GB,AMD Radeon 520,2TB HDD
+a38,Lenovo IdeaPad 320-15AST AMD A6-Series 9220 2.9GHz,152590.38,Lenovo,IdeaPad 320-15AST,"15.6""",AMD A6-Series 9220 2.9GHz,4GB,AMD Radeon R4 Graphics,500GB HDD
+a39,Toshiba Satellite Pro Intel Core i3 7100U 2.4GHz,241477.98,Toshiba,Satellite Pro,"15.6""",Intel Core i3 7100U 2.4GHz,4GB,Intel HD Graphics 620,500GB HDD
+a40,HP ProBook 470 Intel Core i5 8250U 1.6GHz,455795.86,HP,ProBook 470,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce 930MX,256GB SSD
+a41,Dell Inspiron 3567 Intel Core i3 7100U 2.4GHz,226663.38,Dell,Inspiron 3567,"15.6""",Intel Core i3 7100U 2.4GHz,8GB,Intel HD Graphics 620,1TB HDD
+a42,Acer Aspire A315-51 Intel Core i3 6006U 2GHz,221725.18,Acer,Aspire A315-51,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,128GB SSD
+a43,MSI GT80S 6QF-074US Intel Core i7 6920HQ 2.9GHz,1382202.18,MSI,GT80S 6QF-074US,"18.4""",Intel Core i7 6920HQ 2.9GHz,32GB,Nvidia GTX 980 SLI,512GB SSD +  1TB HDD
+a44,Lenovo V310-15IKB (i5-7200U/8GB/1TB Intel Core i5 7200U 2.5GHz,401475.66,Lenovo,V310-15IKB (i5-7200U/8GB/1TB,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,AMD R17M-M1-70,128GB SSD +  1TB HDD
+a45,HP Spectre x360 Intel Core i5 8250U 1.6GHz,740236.18,HP,Spectre x360,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a46,Dell Inspiron 5570 Intel Core i7 8550U 1.8GHz,518017.18,Dell,Inspiron 5570,"15.6""",Intel Core i7 8550U 1.8GHz,16GB,AMD Radeon 530,256GB SSD +  2TB HDD
+a47,Dell XPS 13 Intel Core i5 8250U 1.6GHz,690854.18,Dell,XPS 13,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a48,Lenovo Yoga 920-13IKB Intel Core i7 8550U 1.8GHz,913073.18,Lenovo,Yoga 920-13IKB,"13.9""",Intel Core i7 8550U 1.8GHz,16GB,Intel UHD Graphics 620,512GB SSD
+a49,Toshiba Satellite Pro Intel Core i5 7200U 2.5GHz,391599.26,Toshiba,Satellite Pro,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,128GB SSD
+a50,Xiaomi Mi Notebook Intel Core i5 8250U 1.6GHz,592090.18,Xiaomi,Mi Notebook,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce MX150,256GB SSD
+a51,Dell Inspiron 7773 Intel Core i7 8550U 1.8GHz,764927.18,Dell,Inspiron 7773,"17.3""",Intel Core i7 8550U 1.8GHz,16GB,Nvidia GeForce 150MX,512GB SSD
+a52,Dell XPS 15 Intel Core i7 7700HQ 2.8GHz,1183686.54,Dell,XPS 15,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050,512GB SSD
+a53,Lenovo Legion Y520-15IKBN Intel Core i5 7300HQ 2.5GHz,384685.78,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,256GB SSD
+a54,Acer Swift 7 Intel Core i5 7Y54 1.2GHz,488387.98,Acer,Swift 7,"13.3""",Intel Core i5 7Y54 1.2GHz,8GB,Intel HD Graphics 615,256GB SSD
+a55,Dell Inspiron 5770 Intel Core i7 8550U 1.8GHz,535794.70,Dell,Inspiron 5770,"17.3""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,128GB SSD +  1TB HDD
+a56,Lenovo Thinkpad Yoga Intel Core i7 7500U 2.7GHz,1394547.68,Lenovo,Thinkpad Yoga,"14.0""",Intel Core i7 7500U 2.7GHz,16GB,Intel HD Graphics 620,1TB SSD
+a57,Vero K147 (N3350/4GB/32GB/FHD/W10) Intel Celeron Dual Core N3350 1.1GHz,128393.20,Vero,K147 (N3350/4GB/32GB/FHD/W10),"14.0""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,32GB Flash Storage
+a58,Xiaomi Mi Notebook Intel Core i5 7200U 2.5GHz,493770.62,Xiaomi,Mi Notebook,"13.3""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce MX150,256GB SSD
+a59,Lenovo IdeaPad 320-17IKBR Intel Core i5 8250U 1.6GHz,344686.36,Lenovo,IdeaPad 320-17IKBR,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce MX150,256GB SSD
+a60,Dell Inspiron 5379 Intel Core i7 8550U 1.8GHz,414314.98,Dell,Inspiron 5379,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,1TB HDD
+a61,HP ProBook 470 Intel Core i5 8250U 1.6GHz,451351.48,HP,ProBook 470,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce 930MX,1TB HDD
+a62,Razer Blade Pro Intel Core i7 7820HK 2.9GHz,3011808.18,Razer,Blade Pro,"17.3""",Intel Core i7 7820HK 2.9GHz,32GB,Nvidia GeForce GTX 1080,1TB SSD
+a63,HP ProBook 430 Intel Core i5 8250U 1.6GHz,473573.38,HP,ProBook 430,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,512GB SSD
+a64,HP Omen 17-W295 Intel Core i7 7700HQ 2.8GHz,680977.78,HP,Omen 17-W295,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050,256GB SSD +  1TB HDD
+a65,HP Probook 470 Intel Core i7 8550U 1.8GHz,516041.90,HP,Probook 470,"17.3""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce 930MX ,256GB SSD
+a66,Dell Inspiron 7577 Intel Core i7 7700HQ 2.8GHz,911097.90,Dell,Inspiron 7577,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,512GB SSD +  1TB HDD
+a67,Lenovo V110-15ISK (i5-6200U/4GB/128GB/W10) Intel Core i5 6200U 2.3GHz,243453.26,Lenovo,V110-15ISK (i5-6200U/4GB/128GB/W10),"15.6""",Intel Core i5 6200U 2.3GHz,4GB,Intel HD Graphics 520,128GB SSD
+a68,Acer Aspire E5-576G Intel Core i7 7500U 2.7GHz,366414.44,Acer,Aspire E5-576G,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,Nvidia GeForce 940MX,1TB HDD
+a69,Lenovo Legion Y720-15IKB Intel Core i7 7700HQ 2.8GHz,863691.18,Lenovo,Legion Y720-15IKB,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,512GB SSD +  1TB HDD
+a70,Dell Precision 7520 Intel Xeon E3-1505M V6 3GHz,1508620.10,Dell,Precision 7520,"15.6""",Intel Xeon E3-1505M V6 3GHz,16GB,Nvidia Quadro M1200,256GB SSD +  1TB HDD
+a71,Lenovo Legion Y520-15IKBN Intel Core i7 7700HQ 2.8GHz,690360.36,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,512GB SSD
+a72,Dell Inspiron 3567 Intel Core i3 7100U 2.4GHz,216786.98,Dell,Inspiron 3567,"15.6""",Intel Core i3 7100U 2.4GHz,6GB,Intel HD Graphics 620,1TB HDD
+a73,Dell XPS 13 Intel Core i7 8550U 1.8GHz,962455.18,Dell,XPS 13,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a74,Dell XPS 13 Intel Core i7 8550U 1.8GHz,715545.18,Dell,XPS 13,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a75,Lenovo IdeaPad 320-15IKBN Intel Core i5 7200U 2.5GHz,294810.54,Lenovo,IdeaPad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+a76,Acer Aspire 7 Intel Core i7 7700HQ 2.8GHz,384685.78,Acer,Aspire 7,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,1TB HDD
+a77,Asus ROG GL703VD-GC028T Intel Core i7 7700HQ 2.8GHz,694804.74,Asus,ROG GL703VD-GC028T,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050,256GB SSD +  1TB HDD
+a78,HP 15-bs018nq (i3-6006U/4GB/500GB/FHD/No Intel Core i3 6006U 2GHz,172343.18,HP,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,500GB HDD
+a79,Lenovo IdeaPad 320-15IKBN Intel Core i5 7200U 2.5GHz,271107.18,Lenovo,IdeaPad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+a80,Huawei MateBook X Intel Core i7 7500U 2.7GHz,740236.18,Huawei,MateBook X,"13.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,512GB SSD
+a81,Dell Inspiron 5370 Intel Core i7 8550U 1.8GHz,460180.98,Dell,Inspiron 5370,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,256GB SSD
+a82,Lenovo IdeaPad 320-17IKB Intel Core i5 7200U 2.5GHz,290859.98,Lenovo,IdeaPad 320-17IKB,"17.3""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce GTX 940MX,1TB HDD
+a83,HP Probook 440 Intel Core i7 8550U 1.8GHz,509128.42,HP,Probook 440,"14.0""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce 930MX,256GB SSD
+a84,Dell Latitude 5490 Intel Core i5 8250U 1.6GHz,567399.18,Dell,Latitude 5490,"14.0""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a85,Dell Inspiron 5379 Intel Core i7 8550U 1.8GHz,631595.78,Dell,Inspiron 5379,"13.3""",Intel Core i7 8550U 1.8GHz,16GB,Intel UHD Graphics 620,512GB SSD
+a86,Dell Inspiron 3576 Intel Core i5 8250U 1.6GHz,334488.98,Dell,Inspiron 3576,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 520,256GB SSD
+a87,Lenovo Yoga 520-14IKB Intel Core i5 8250U 1.6GHz,443944.18,Lenovo,Yoga 520-14IKB,"14.0""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a88,Toshiba Portege Z30-C-16L Intel Core i7 6500U 2.5GHz,673076.66,Toshiba,Portege Z30-C-16L,"13.3""",Intel Core i7 6500U 2.5GHz,8GB,Intel HD Graphics 520,256GB SSD
+a89,HP ProBook 450 Intel Core i5 8250U 1.6GHz,392093.08,HP,ProBook 450,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,1TB HDD
+a90,Dell Alienware 17 Intel Core i7 7700HQ 2.8GHz,1212989.82,Dell,Alienware 17,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,256GB SSD +  1TB HDD
+a91,Acer Aspire E5-576G Intel Core i7 7500U 2.7GHz,410858.24,Acer,Aspire E5-576G,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+a92,Dell Inspiron 5567 Intel Core i7 7500U 2.7GHz,424196.32,Dell,Inspiron 5567,"15.6""",Intel Core i7 7500U 2.7GHz,16GB,AMD Radeon R7 M445,1TB HDD
+a93,Asus Vivobook X541UV-DM1217T Intel Core i5 7200U 2.5GHz,379747.58,Asus,Vivobook X541UV-DM1217T,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce 920MX ,256GB SSD
+a94,Asus K756UX-T4340T (i5-7200U/8GB/500GB Intel Core i5 7200U 2.5GHz,439993.62,Asus,K756UX-T4340T (i5-7200U/8GB/500GB,"17.3""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce GTX 950M,256GB SSD +  500GB HDD
+a95,HP ZBook 15u Intel Core i7 7500U 2.7GHz,626657.58,HP,ZBook 15u,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,AMD FirePro W4190M ,1TB HDD
+a96,Asus Pro P2540UA-XO0198T Intel Core i3 7100U 2.4GHz,197029.24,Asus,Pro P2540UA-XO0198T,"15.6""",Intel Core i3 7100U 2.4GHz,4GB,Intel HD Graphics 620,1TB HDD
+a97,HP 15-rb013nv (E2-9000e/4GB/500GB/W10) AMD E-Series 9000e 1.5GHz,162960.60,HP,15-rb013nv (E2-9000e/4GB/500GB/W10),"15.6""",AMD E-Series 9000e 1.5GHz,4GB,AMD Radeon R2,500GB HDD
+a98,Lenovo Legion Y720-15IKB Intel Core i7 7700HQ 2.8GHz,740236.18,Lenovo,Legion Y720-15IKB,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1060,256GB SSD +  1TB HDD
+a99,Dell Vostro 5468 Intel Core i5 7200U 2.5GHz,424191.38,Dell,Vostro 5468,"14.0""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+a100,Acer Aspire R7 Intel Core i5 6200U 2.3GHz,340241.98,Acer,Aspire R7,"13.3""",Intel Core i5 6200U 2.3GHz,8GB,Intel HD Graphics 520,256GB SSD
+a101,Dell Inspiron 5567 Intel Core i7 7500U 2.7GHz,443944.18,Dell,Inspiron 5567,"15.6""",Intel Core i7 7500U 2.7GHz,16GB,AMD Radeon R7 M445,256GB SSD
+a102,Acer Aspire A315-51 Intel Core i3 6006U 2GHz,192589.80,Acer,Aspire A315-51,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,1TB HDD
+a103,Asus X555QG-DM242T (A10-9620P/4GB/1TB AMD A10-Series A10-9620P 2.5GHz,283946.50,Asus,X555QG-DM242T (A10-9620P/4GB/1TB,"15.6""",AMD A10-Series A10-9620P 2.5GHz,4GB,AMD Radeon R5 M430,128GB SSD +  1TB HDD
+a104,Asus ROG G703VI-E5062T Intel Core i7 7820HK 2.9GHz,1920959.80,Asus,ROG G703VI-E5062T,"17.3""",Intel Core i7 7820HK 2.9GHz,32GB,Nvidia GeForce GTX 1080,512GB SSD +  1TB HDD
+a105,Acer Nitro AN515-51 Intel Core i5 7300HQ 2.5GHz,417771.72,Acer,Nitro AN515-51,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,256GB SSD
+a106,Lenovo IdeaPad 320-15ISK Intel Core i3 6006U 2GHz,290859.98,Lenovo,IdeaPad 320-15ISK,"15.6""",Intel Core i3 6006U 2GHz,8GB,Intel HD Graphics 520,128GB SSD
+a107,Asus VivoBook Pro Intel Core i7 8550U 1.8GHz,565423.90,Asus,VivoBook Pro,"17.3""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce 150MX,128GB SSD +  1TB HDD
+a108,Asus F756UX-T4201D (i7-7500U/8GB/128GB Intel Core i7 7500U 2.7GHz,439005.98,Asus,F756UX-T4201D (i7-7500U/8GB/128GB,"17.3""",Intel Core i7 7500U 2.7GHz,8GB,Nvidia GeForce GTX 950M,128GB SSD +  1TB HDD
+a109,Dell Inspiron 5577 Intel Core i5 7300HQ 2.5GHz,434067.78,Dell,Inspiron 5577,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,256GB SSD
+a110,Lenovo Yoga 910-13IKB Intel Core i7 7500U 2.7GHz,532831.78,Lenovo,Yoga 910-13IKB,"13.9""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+a111,Dell Inspiron 5570 Intel Core i7 8550U 1.8GHz,486412.70,Dell,Inspiron 5570,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,128GB SSD +  2TB HDD
+a112,HP 15-bs015dx (i5-7200U/8GB/1TB/W10) Intel Core i5 7200U 2.5GHz,276045.38,HP,15-bs015dx (i5-7200U/8GB/1TB/W10),"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,1TB HDD
+a113,Asus Rog G701VIK-BA060T Intel Core i7 7820HK 2.9GHz,1480966.18,Asus,Rog G701VIK-BA060T,"17.3""",Intel Core i7 7820HK 2.9GHz,16GB,Nvidia GeForce GTX 1080,256GB SSD
+a114,HP ProBook 430 Intel Core i5 8250U 1.6GHz,333328.50,HP,ProBook 430,"13.3""",Intel Core i5 8250U 1.6GHz,4GB,Intel UHD Graphics 620,500GB HDD
+a115,Apple MacBook Pro Intel Core i5 3.1GHz,1007392.80,Apple,MacBook Pro,"13.3""",Intel Core i5 3.1GHz,8GB,Intel Iris Plus Graphics 650,512GB SSD
+a116,Dell Inspiron 5579 Intel Core i7 8550U 1.8GHz,404438.58,Dell,Inspiron 5579,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,1TB HDD
+a117,Asus ROG G752VSK-GC493T Intel Core i7 7700HQ 2.8GHz,888382.18,Asus,ROG G752VSK-GC493T,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 980M,256GB SSD +  1TB HDD
+a118,Asus X505BP-BR019T (A9-9420/4GB/1TB/Radeon AMD A9-Series 9420 3GHz,231601.58,Asus,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon R5 M420,1TB HDD
+a119,Lenovo Yoga 920-13IKB Intel Core i7 8550U 1.8GHz,913073.18,Lenovo,Yoga 920-13IKB,"13.9""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,512GB SSD
+a120,Acer Aspire 5 Intel Core i3 7130U 2.7GHz,346661.64,Acer,Aspire 5,"17.3""",Intel Core i3 7130U 2.7GHz,4GB,Nvidia GeForce MX130,256GB SSD
+a121,Dell Vostro 5370 Intel Core i5 8250U 1.6GHz,468635.18,Dell,Vostro 5370,"13.3""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+a122,HP 15-BW094nd (A6-9220/8GB/128GB/W10) AMD A6-Series A6-9220 2.5GHz,220194.34,HP,15-BW094nd (A6-9220/8GB/128GB/W10),"15.6""",AMD A6-Series A6-9220 2.5GHz,8GB,AMD Radeon R4 Graphics,128GB SSD
+f1,HP Envy 17-U275cl Intel Core i7 8550U 1.8GHz,522955.38,HP,Envy 17-U275cl,"17.3""",Intel Core i7 8550U 1.8GHz,16GB,Nvidia GeForce MX150,1TB HDD
+f2,MSI GT73EVR 7RE Intel Core i7 7700HQ 2.8GHz,1234056.18,MSI,GT73EVR 7RE,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1070,512GB SSD +  1TB HDD
+f3,Lenovo Yoga 720-15IKB Intel Core i7 7700HQ 2.8GHz,839000.18,Lenovo,Yoga 720-15IKB,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050M,512GB SSD
+f4,Dell Inspiron 5770 Intel Core i7 8550U 1.8GHz,563942.44,Dell,Inspiron 5770,"17.3""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,128GB SSD +  1TB HDD
+f5,Lenovo IdeaPad 320-15ISK Intel Core i3 6006U 2GHz,219256.08,Lenovo,IdeaPad 320-15ISK,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,256GB SSD
+f6,HP ProBook 450 Intel Core i5 8250U 1.6GHz,356538.04,HP,ProBook 450,"15.6""",Intel Core i5 8250U 1.6GHz,4GB,Intel HD Graphics 620,500GB HDD
+f7,Dell Vostro 3568 Intel Core i5 7200U 2.5GHz,324439.74,Dell,Vostro 3568,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,1TB HDD
+f8,Dell Inspiron 3567 Intel Core i5 7200U 2.5GHz,279008.30,Dell,Inspiron 3567,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,AMD Radeon R5 M430,1TB HDD
+f9,Dell Inspiron 5579 Intel Core i5 8250U 1.6GHz,394562.18,Dell,Inspiron 5579,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+f10,Asus ZenBook Flip Intel Core i7 8550U 1.8GHz,740236.18,Asus,ZenBook Flip,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,512GB SSD +  512GB SSD
+f11,Lenovo IdeaPad 320-15IKBN Intel Core i5 7200U 2.5GHz,230613.94,Lenovo,IdeaPad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,Intel HD Graphics 620,1TB HDD
+f12,HP Probook 470 Intel Core i7 8550U 1.8GHz,502708.76,HP,Probook 470,"17.3""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce 930MX ,1TB HDD
+f13,Lenovo V330-15IKB (i7-8550U/8GB/256GB/FHD/W10) Intel Core i7 8550U 1.8GHz,434561.60,Lenovo,V330-15IKB (i7-8550U/8GB/256GB/FHD/W10),"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+f14,Apple MacBook Pro Intel Core i5 2.9GHz,967344.00,Apple,MacBook Pro,"13.3""",Intel Core i5 2.9GHz,8GB,Intel Iris Graphics 550,512GB SSD
+f15,Asus Rog Strix AMD Ryzen 1700 3GHz,764927.18,Asus,Rog Strix,"17.3""",AMD Ryzen 1700 3GHz,16GB,AMD Radeon RX 580,256GB SSD +  1TB HDD
+f16,Dell Inspiron 3576 Intel Core i7 8550U 1.8GHz,362992.27,Dell,Inspiron 3576,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 520,256GB SSD
+f17,Lenovo ThinkPad X1 Intel Core i7 6600U 2.6GHz,1234056.18,Lenovo,ThinkPad X1,"14.0""",Intel Core i7 6600U 2.6GHz,16GB,Intel HD Graphics 520,512GB SSD
+f18,Toshiba Satellite Pro Intel Core i7 6500U 2.5GHz,400981.84,Toshiba,Satellite Pro,"15.6""",Intel Core i7 6500U 2.5GHz,8GB,Nvidia GeForce 930M,500GB HDD
+f19,Dell Inspiron 5567 Intel Core i7 7500U 2.7GHz,352128.23,Dell,Inspiron 5567,"15.6""",Intel Core i7 7500U 2.7GHz,12GB,Intel HD Graphics 620,1TB HDD
+f20,Dell Inspiron 5770 Intel Core i7 8550U 1.8GHz,542708.18,Dell,Inspiron 5770,"17.3""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,128GB SSD +  1TB HDD
+f21,Acer Aspire A515-51G Intel Core i7 8550U 1.8GHz,367895.90,Acer,Aspire A515-51G,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce MX130,1TB HDD
+f22,Lenovo IdeaPad 320-17ISK Intel Core i3 6006U 2GHz,241477.98,Lenovo,IdeaPad 320-17ISK,"17.3""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,1TB HDD
+f23,Lenovo IdeaPad 320-17IKBR Intel Core i7 8550U 1.8GHz,419253.18,Lenovo,IdeaPad 320-17IKBR,"17.3""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce MX150,2TB HDD
+f24,Lenovo IdeaPad 320-17IKB Intel Core i7 7500U 2.7GHz,424191.38,Lenovo,IdeaPad 320-17IKB,"17.3""",Intel Core i7 7500U 2.7GHz,6GB,Nvidia GeForce 940MX,128GB SSD +  1TB HDD
+f25,Dell Inspiron 3567 Intel Core i3 6006U 2.0GHz,211354.96,Dell,Inspiron 3567,"15.6""",Intel Core i3 6006U 2.0GHz,4GB,AMD Radeon R5 M430,1TB HDD
+f26,Lenovo Legion Y520-15IKBN Intel Core i5 7300HQ 2.5GHz,409376.78,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,256GB SSD
+f27,Lenovo Ideapad 320-15IKBN Intel Core i5 7200U 2.5GHz,285921.78,Lenovo,Ideapad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,6GB,Intel HD Graphics 620,256GB SSD
+f28,Acer Aspire A517-51G Intel Core i7 8550U 1.8GHz,469622.82,Acer,Aspire A517-51G,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Nvidia GeForce MX150,256GB SSD
+f29,Acer SP315-51 (i7-7500U/12GB/1TB/FHD/W10) Intel Core i7 7500U 2.7GHz,325427.38,Acer,SP315-51 (i7-7500U/12GB/1TB/FHD/W10),"15.6""",Intel Core i7 7500U 2.7GHz,12GB,Intel HD Graphics 620,1TB HDD
+f30,Lenovo Thinkpad T570 Intel Core i7 7500U 2.7GHz,541720.54,Lenovo,Thinkpad T570,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 630,256GB SSD
+f31,Asus VivoBook S15 Intel Core i5 7200U 2.5GHz,482462.14,Asus,VivoBook S15,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+f32,Lenovo Legion Y520-15IKBN Intel Core i7 7700HQ 2.8GHz,582213.78,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050 Ti,256GB SSD +  1TB HDD
+f33,Lenovo IdeaPad 320-15IKB Intel Core i7 7500U 2.7GHz,325432.32,Lenovo,IdeaPad 320-15IKB,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,Nvidia GeForce 940MX,1TB HDD
+f34,Acer Chromebook C910-C2ST Intel Celeron Dual Core 3205U 1.5GHz,98270.18,Acer,Chromebook C910-C2ST,"15.6""",Intel Celeron Dual Core 3205U 1.5GHz,2GB,Intel HD Graphics,16GB SSD
+f35,Asus FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce Intel Core i7 7700HQ 2.8GHz,586164.34,Asus,FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce,"17.3""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,1TB HDD
+f36,HP 17-BS037cl (i3-6006U/8GB/1TB/W10) Intel Core i3 6006U 2GHz,241477.98,HP,17-BS037cl (i3-6006U/8GB/1TB/W10),"17.3""",Intel Core i3 6006U 2GHz,8GB,Intel HD Graphics 520,1TB HDD
+f37,Dell XPS 15 Intel Core i7 7700HQ 2.8GHz,903196.78,Dell,XPS 15,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,256GB SSD
+f38,Lenovo V330-15IKB (i5-8250U/8GB/256GB/FHD/W10) Intel Core i5 8250U 1.6GHz,364932.98,Lenovo,V330-15IKB (i5-8250U/8GB/256GB/FHD/W10),"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Intel UHD Graphics 620,256GB SSD
+f39,Lenovo Legion Y720-15IKB Intel Core i7 7700HQ 2.8GHz,641472.18,Lenovo,Legion Y720-15IKB,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1060,1TB HDD
+f40,Acer Aspire A715-71G Intel Core i7 7700HQ 2.8GHz,483449.78,Acer,Aspire A715-71G,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050 Ti,256GB SSD
+f41,Dell Precision 7720 Intel Core i7 7820HQ 2.9GHz,1424601.57,Dell,Precision 7720,"17.3""",Intel Core i7 7820HQ 2.9GHz,16GB,Nvidia Quadro M1200,256GB SSD
+f42,Lenovo IdeaPad 310-15ABR AMD A10-Series 9600P 2.4GHz,246416.18,Lenovo,IdeaPad 310-15ABR,"15.6""",AMD A10-Series 9600P 2.4GHz,6GB,AMD Radeon R5 430,1TB HDD
+f43,Asus ZenBook UX530UQ-PRO Intel Core i7 7500U 2.7GHz,724927.76,Asus,ZenBook UX530UQ-PRO,"15.6""",Intel Core i7 7500U 2.7GHz,16GB,Nvidia GeForce 940MX,512GB SSD
+f44,Asus VivoBook S14 Intel Core i3 7100U 2.4GHz,251354.38,Asus,VivoBook S14,"14.0""",Intel Core i3 7100U 2.4GHz,4GB,Intel HD Graphics 620,128GB SSD
+f45,Asus Rog GL702VS-GC095T Intel Core i7 7700HQ 2.8GHz,1047886.04,Asus,Rog GL702VS-GC095T,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1070,256GB SSD +  1TB HDD
+f46,Lenovo IdeaPad 320-17IKB Intel Core i5 7200U 2.5GHz,320489.18,Lenovo,IdeaPad 320-17IKB,"17.3""",Intel Core i5 7200U 2.5GHz,6GB,Nvidia GeForce GTX 940M,1TB HDD
+f47,Lenovo IdeaPad 320-15IKBN Intel Core i5 7200U 2.5GHz,271107.18,Lenovo,IdeaPad 320-15IKBN,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce 940MX,2TB HDD
+f48,Asus GL553VE-FY082T (i7-7700HQ/8GB/1TB Intel Core i7 7700HQ 2.8GHz,624682.30,Asus,GL553VE-FY082T (i7-7700HQ/8GB/1TB,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050 Ti,128GB SSD +  1TB HDD
+f49,Lenovo IdeaPad 320-15IAP Intel Pentium Quad Core N4200 1.1GHz,177770.26,Lenovo,IdeaPad 320-15IAP,"15.6""",Intel Pentium Quad Core N4200 1.1GHz,4GB,Intel HD Graphics 505,1TB HDD
+f50,HP EliteBook x360 Intel Core i7 7600U 2.8GHz,975294.50,HP,EliteBook x360,"13.3""",Intel Core i7 7600U 2.8GHz,16GB,Intel HD Graphics 620,256GB SSD
+f51,Toshiba Satellite Pro Intel Core i7 6500U 2.5GHz,515054.26,Toshiba,Satellite Pro,"15.6""",Intel Core i7 6500U 2.5GHz,8GB,Nvidia GeForce 930M,256GB SSD
+f52,Lenovo IdeaPad 320-15IKB Intel Core i5 7200U 2.5GHz,404438.58,Lenovo,IdeaPad 320-15IKB,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce 940MX,128GB SSD +  1TB HDD
+f53,HP 250 G6 Intel Core i3 6006U 2GHz,231601.58,HP,250 G6,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,1TB HDD
+f54,Lenovo IdeaPad 720S-13IKB Intel Core i5 7200U 2.5GHz,493326.18,Lenovo,IdeaPad 720S-13IKB,"13.3""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+f55,Dell XPS 13 Intel Core i7 8550U 1.8GHz,1234056.18,Dell,XPS 13,"13.3""",Intel Core i7 8550U 1.8GHz,16GB,Intel UHD Graphics 620,1TB SSD
+f56,MSI GE63VR 7RF Intel Core i7 7700HQ 2.8GHz,1036528.18,MSI,GE63VR 7RF,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1070,256GB SSD +  1TB HDD
+f57,Acer ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10) AMD A8-Series 7410 2.2GHz,231601.58,Acer,ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10),"15.6""",AMD A8-Series 7410 2.2GHz,8GB,AMD Radeon R5,256GB SSD
+f58,Asus VivoBook Flip Intel Celeron Dual Core N3350 1.1GHz,135800.50,Asus,VivoBook Flip,"11.6""",Intel Celeron Dual Core N3350 1.1GHz,2GB,Intel HD Graphics 500,32GB Flash Storage
+f59,Dell Inspiron 5570 Intel Core i5 8250U 1.6GHz,416784.08,Dell,Inspiron 5570,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 530,128GB SSD +  1TB HDD
+f60,HP Spectre x360 Intel Core i7 8550U 1.8GHz,1209365.18,HP,Spectre x360,"13.3""",Intel Core i7 8550U 1.8GHz,16GB,Intel UHD Graphics 620,1TB SSD
+f61,Lenovo ThinkPad 13 Intel Celeron Dual Core 3855U 1.6GHz,227107.82,Lenovo,ThinkPad 13,"13.3""",Intel Celeron Dual Core 3855U 1.6GHz,4GB,Intel HD Graphics 510,16GB Flash Storage
+f62,HP ProBook 640 Intel Core i5 7200U 2.5GHz,483943.60,HP,ProBook 640,"14.0""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+f63,Acer TravelMate B Intel Pentium Quad Core N3710 1.6GHz,239502.70,Acer,TravelMate B,"11.6""",Intel Pentium Quad Core N3710 1.6GHz,4GB,Intel HD Graphics 405,128GB Flash Storage
+f64,HP Elitebook 840 Intel Core i7 7500U 2.7GHz,638015.44,HP,Elitebook 840,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+f65,Lenovo IdeaPad 320-17IKB Intel Core i5 7200U 2.5GHz,290859.98,Lenovo,IdeaPad 320-17IKB,"17.3""",Intel Core i5 7200U 2.5GHz,4GB,Nvidia GeForce 920MX,1TB HDD
+f66,Asus ZenBook UX410UA-GV183T Intel Core i7 7500U 2.7GHz,540239.08,Asus,ZenBook UX410UA-GV183T,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+f67,HP ProBook 450 Intel Core i7 8550U 1.8GHz,445425.64,HP,ProBook 450,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,1TB HDD
+f68,Acer Aspire 5 AMD A12-Series 9720P 2.7GHz,325427.38,Acer,Aspire 5,"15.6""",AMD A12-Series 9720P 2.7GHz,8GB,AMD Radeon RX 540,256GB SSD
+f69,Lenovo IdeaPad 120S-14IAP Intel Celeron Dual Core N3350 1.1GHz,144195.44,Lenovo,IdeaPad 120S-14IAP,"14.0""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,32GB Flash Storage
+f70,Acer Aspire E5-575 Intel Core i5 7200U 2.5GHz,271107.18,Acer,Aspire E5-575,"15.6""",Intel Core i5 7200U 2.5GHz,6GB,Intel HD Graphics 620,1TB HDD
+f71,Asus VivoBook S15 Intel Core i7 7500U 2.7GHz,518461.62,Asus,VivoBook S15,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+f72,HP Elitebook 820 Intel Core i7 7500U 2.7GHz,659249.70,HP,Elitebook 820,"12.5""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+f73,Dell XPS 15 Intel Core i7 7700HQ 2.8GHz,1303190.98,Dell,XPS 15,"15.6""",Intel Core i7 7700HQ 2.8GHz,32GB,Nvidia GeForce GTX 1050,1TB SSD
+f74,MSI GL72M 7REX Intel Core i7 7700HQ 2.8GHz,592090.18,MSI,GL72M 7REX,"17.3""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050 Ti,256GB SSD +  1TB HDD
+f75,Toshiba Satellite Pro Intel Core i5 7200U 2.5GHz,465672.26,Toshiba,Satellite Pro,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+f76,Asus UX510UX-CN269T (i7-7500U/8GB/256GB Intel Core i7 7500U 2.7GHz,658755.88,Asus,UX510UX-CN269T (i7-7500U/8GB/256GB,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD +  1TB HDD
+f77,Lenovo V310-15ISK (i3-6006U/4GB/1TB/FHD/W10) Intel Core i3 6006U 2GHz,221725.18,Lenovo,V310-15ISK (i3-6006U/4GB/1TB/FHD/W10),"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,1TB HDD
+f78,Asus FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce Intel Core i7 7700HQ 2.8GHz,493326.18,Asus,FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,256GB SSD
+f79,HP EliteBook 840 Intel Core i5 7300U 2.6GHz,626163.76,HP,EliteBook 840,"14.0""",Intel Core i5 7300U 2.6GHz,8GB,Intel HD Graphics 620,256GB SSD
+f80,Dell Inspiron 7570 Intel Core i5 8250U 1.6GHz,518017.18,Dell,Inspiron 7570,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce 940MX,128GB SSD +  1TB HDD
+f81,HP Elitebook 850 Intel Core i5 7200U 2.5GHz,564930.08,HP,Elitebook 850,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+f82,Asus X541NA (N3350/4GB/1TB/Linux) Intel Celeron Dual Core N3350 1.1GHz,135795.56,Asus,X541NA (N3350/4GB/1TB/Linux),"15.6""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,1TB HDD
+f83,Dell Inspiron 7570 Intel Core i5 8250U 1.6GHz,564312.80,Dell,Inspiron 7570,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+f84,Dell Inspiron 3552 Intel Celeron Dual Core N3060 1.6GHz,135751.12,Dell,Inspiron 3552,"15.6""",Intel Celeron Dual Core N3060 1.6GHz,4GB,Intel HD Graphics,500GB HDD
+f85,Lenovo IdeaPad 320-15ABR AMD A12-Series 9720P 3.6GHz,443944.18,Lenovo,IdeaPad 320-15ABR,"15.6""",AMD A12-Series 9720P 3.6GHz,12GB,AMD Radeon 530,2TB HDD
+f86,HP ProBook 450 Intel Core i3 7100U 2.4GHz,353575.12,HP,ProBook 450,"15.6""",Intel Core i3 7100U 2.4GHz,8GB,Nvidia GeForce 930MX ,1TB HDD
+f87,Lenovo Yoga 920-13IKB Intel Core i7 8550U 1.8GHz,1036528.18,Lenovo,Yoga 920-13IKB,"13.9""",Intel Core i7 8550U 1.8GHz,16GB,Intel UHD Graphics 620,512GB SSD
+f88,Dell XPS 13 Intel Core i7 8550U 1.8GHz,779741.78,Dell,XPS 13,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+f89,Lenovo Legion Y520-15IKBN Intel Core i7 7700HQ 2.8GHz,557522.78,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050 Ti,256GB SSD +  2TB HDD
+f90,HP Stream 14-AX001nv Intel Celeron Dual Core N3060 1.6GHz,137775.78,HP,Stream 14-AX001nv,"14.0""",Intel Celeron Dual Core N3060 1.6GHz,2GB,Intel HD Graphics 400,32GB Flash Storage
+f91,Dell Latitude 5590 Intel Core i7 8650U 1.9GHz,794042.81,Dell,Latitude 5590,"15.6""",Intel Core i7 8650U 1.9GHz,16GB,Intel UHD Graphics 620,512GB SSD +  256GB SSD
+f92,Asus VivoBook Flip Intel Celeron Dual Core N3350 1.1GHz,185182.50,Asus,VivoBook Flip,"11.6""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,32GB Flash Storage
+f93,Dell Inspiron 5570 Intel Core i5 8250U 1.6GHz,327402.66,Dell,Inspiron 5570,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 530,1TB HDD
+f94,Dell XPS 15 Intel Core i7 7700HQ 2.8GHz,1001180.54,Dell,XPS 15,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050,512GB SSD
+f95,HP Elitebook 850 Intel Core i7 7500U 2.7GHz,643941.28,HP,Elitebook 850,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+f96,MSI GP72MVR 7RFX Intel Core i7 7700HQ 2.8GHz,695792.38,MSI,GP72MVR 7RFX,"17.3""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1060,128GB SSD +  1TB HDD
+f97,HP Zbook 15 Intel Core i7 7700HQ 2.8GHz,858392.49,HP,Zbook 15,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia Quadro M1200,256GB SSD
+f98,Toshiba Tecra A50-C-21G Intel Core i7 6500U 2.5GHz,692829.46,Toshiba,Tecra A50-C-21G,"15.6""",Intel Core i7 6500U 2.5GHz,16GB,Nvidia GeForce 930M,512GB SSD
+f99,Dell Inspiron 5570 Intel Core i7 8550U 1.8GHz,479449.84,Dell,Inspiron 5570,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon 530,128GB SSD +  2TB HDD
+f100,Lenovo IdeaPad 320-15IAP Intel Celeron Dual Core N3350 1.1GHz,159005.10,Lenovo,IdeaPad 320-15IAP,"15.6""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,1TB HDD
+f101,Dell Inspiron 7577 Intel Core i5 7300HQ 2.5GHz,493326.18,Dell,Inspiron 7577,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,1TB HDD
+f102,Dell Inspiron 3567 Intel Core i5 7200U 2.5GHz,275240.45,Dell,Inspiron 3567,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,2TB HDD
+f103,Dell Latitude 7480 Intel Core i5 7300U 2.6GHz,704681.14,Dell,Latitude 7480,"14.0""",Intel Core i5 7300U 2.6GHz,8GB,Intel HD Graphics 620,256GB SSD
+f104,HP 250 G6 Intel Core i3 6006U 2GHz,216786.98,HP,250 G6,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,500GB HDD
+f105,Asus Zenbook UX410UA-GV027T Intel Core i5 7200U 2.5GHz,466659.90,Asus,Zenbook UX410UA-GV027T,"14.0""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+f106,Lenovo IdeaPad 320-17IKB Intel Core i5 7200U 2.5GHz,355056.58,Lenovo,IdeaPad 320-17IKB,"17.3""",Intel Core i5 7200U 2.5GHz,6GB,Nvidia GeForce GTX 940MX,128GB SSD +  1TB HDD
+f107,HP 250 G6 Intel Core i5 7200U 2.5GHz,315550.98,HP,250 G6,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,1TB HDD
+f108,Lenovo IdeaPad 320-15ISK Intel Core i3 6006U 2GHz,246416.18,Lenovo,IdeaPad 320-15ISK,"15.6""",Intel Core i3 6006U 2GHz,8GB,Nvidia GeForce 920MX ,256GB SSD
+f109,HP 15-AY023na (N3710/8GB/2TB/W10) Intel Pentium Quad Core N3710 1.6GHz,192095.98,HP,15-AY023na (N3710/8GB/2TB/W10),"15.6""",Intel Pentium Quad Core N3710 1.6GHz,8GB,Intel HD Graphics 405,2TB HDD
+f110,Dell Inspiron 5770 Intel Core i5 8250U 1.6GHz,535794.70,Dell,Inspiron 5770,"17.3""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon 530,128GB SSD +  1TB HDD
+f111,Lenovo Legion Y520-15IKBN Intel Core i5 7300HQ 2.5GHz,399500.38,Lenovo,Legion Y520-15IKBN,"15.6""",Intel Core i5 7300HQ 2.5GHz,8GB,Nvidia GeForce GTX 1050,128GB SSD +  1TB HDD
+f112,Dell Inspiron 5567 Intel Core i7 7500U 2.7GHz,443944.18,Dell,Inspiron 5567,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,AMD Radeon R7 M445,256GB SSD
+f113,HP Elitebook 1040 Intel Core i7 7500U 2.7GHz,864185.00,HP,Elitebook 1040,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,256GB SSD
+f114,Asus ZenBook Flip Intel Core i7 7500U 2.7GHz,542708.18,Asus,ZenBook Flip,"15.6""",Intel Core i7 7500U 2.7GHz,12GB,Nvidia GeForce GT 940MX,512GB SSD +  2TB HDD
+f115,Acer Aspire 3 AMD A9-Series 9420 3GHz,210367.32,Acer,Aspire 3,"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon R5,128GB SSD
+f116,Asus Rog Strix AMD Ryzen 1700 3GHz,1085910.18,Asus,Rog Strix,"17.3""",AMD Ryzen 1700 3GHz,16GB,AMD Radeon RX 580,256GB SSD +  1TB HDD
+f117,Lenovo IdeaPad 110-17ACL AMD A8-Series 7410 2.2GHz,241477.98,Lenovo,IdeaPad 110-17ACL,"17.3""",AMD A8-Series 7410 2.2GHz,4GB,AMD Radeon R5,128GB SSD
+f118,Dell Inspiron 5379 Intel Core i7 8550U 1.8GHz,429134.52,Dell,Inspiron 5379,"13.3""",Intel Core i7 8550U 1.8GHz,8GB,Intel UHD Graphics 620,256GB SSD
+f119,HP 15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10) AMD A9-Series 9420 3GHz,241473.04,HP,15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10),"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon R5,256GB SSD
+f120,Lenovo Yoga 11e Intel Celeron Quad Core N3450 1.1GHz,273082.46,Lenovo,Yoga 11e,"11.6""",Intel Celeron Quad Core N3450 1.1GHz,4GB,Intel HD Graphics 500,128GB SSD
+f121,Dell Inspiron 3552 Intel Celeron Dual Core N3060 1.60GHz,152590.38,Dell,Inspiron 3552,"15.6""",Intel Celeron Dual Core N3060 1.60GHz,4GB,Intel HD Graphics 400,500GB HDD
+f122,Asus VivoBook E403NA Intel Celeron Dual Core N3350 1.1GHz,141232.52,Asus,VivoBook E403NA,"14.0""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,32GB Flash Storage
+f123,Acer Aspire 7 Intel Core i7 7700HQ 2.8GHz,417771.72,Acer,Aspire 7,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,1TB HDD
+f124,HP Omen 17-w212nv Intel Core i7 7700HQ 2.8GHz,588139.62,HP,Omen 17-w212nv,"17.3""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,128GB SSD +  1TB HDD
+f125,Lenovo V310-15ISK (i3-6006U/4GB/128GB/FHD/No Intel Core i3 6006U 2GHz,199256.37,Lenovo,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,128GB SSD
+f126,Asus ROG Strix Intel Core i7 7700HQ 2.8GHz,817272.10,Asus,ROG Strix,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1060,128GB SSD +  1TB HDD
+f127,Lenovo IdeaPad 720S-14IKB Intel Core i5 7200U 2.5GHz,542708.18,Lenovo,IdeaPad 720S-14IKB,"14.0""",Intel Core i5 7200U 2.5GHz,8GB,Nvidia GeForce 940MX,256GB SSD
+f128,Asus Zenbook Flip Intel Core i7 7500U 2.7GHz,863641.80,Asus,Zenbook Flip,"13.3""",Intel Core i7 7500U 2.7GHz,16GB,Intel HD Graphics 620,512GB SSD
+f129,Lenovo Thinkpad X1 Intel Core i7 7500U 2.7GHz,1126897.24,Lenovo,Thinkpad X1,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,512GB SSD
+f130,Lenovo Ideapad 510S-13IKB Intel Core i3 7100U 2.4GHz,271107.18,Lenovo,Ideapad 510S-13IKB,"13.3""",Intel Core i3 7100U 2.4GHz,4GB,Intel HD Graphics 620,128GB SSD
+f131,Dell Precision 3510 Intel Core i5 6440HQ 2.6GHz,676039.58,Dell,Precision 3510,"15.6""",Intel Core i5 6440HQ 2.6GHz,8GB,AMD FirePro W5130M,500GB HDD
+f132,Dell Precision 5520 Intel Core i7 6820HQ 2.7GHz,1054305.70,Dell,Precision 5520,"15.6""",Intel Core i7 6820HQ 2.7GHz,8GB,Nvidia Quadro M1200,256GB SSD
+f133,Lenovo ThinkPad X1 Intel Core i7 7500U 2.7GHz,1238994.38,Lenovo,ThinkPad X1,"14.0""",Intel Core i7 7500U 2.7GHz,16GB,Intel HD Graphics 620,512GB SSD
+f134,Asus Rog GL753VD-GC042T Intel Core i7 7700HQ 2.8GHz,513078.98,Asus,Rog GL753VD-GC042T,"17.3""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,1TB HDD
+f135,Asus Rog GL753VE-GC070T Intel Core i7 7700HQ 2.8GHz,785667.62,Asus,Rog GL753VE-GC070T,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050 Ti,256GB SSD +  1TB HDD
+f136,Acer Aspire 5 Intel Core i5 8250U 1.6GHz,342706.14,Acer,Aspire 5,"15.6""",Intel Core i5 8250U 1.6GHz,12GB,Nvidia GeForce MX130,1TB HDD
+f137,MSI Leopard GP72M Intel Core i7 7700HQ 2.8GHz,666163.18,MSI,Leopard GP72M,"17.3""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050 Ti,256GB SSD
+f138,Dell Inspiron 5567 Intel Core i7 7500U 2.7GHz,384621.58,Dell,Inspiron 5567,"15.6""",Intel Core i7 7500U 2.7GHz,8GB,AMD Radeon R7 M445,256GB SSD
+f139,HP 15-BW004nv (A9-9420/4GB/256GB/Radeon AMD A9-Series 9420 3GHz,246416.18,HP,15-BW004nv (A9-9420/4GB/256GB/Radeon,"15.6""",AMD A9-Series 9420 3GHz,4GB,AMD Radeon 520,256GB SSD
+f140,Lenovo ThinkPad E580 Intel Core i7 8550U 1.8GHz,607181.32,Lenovo,ThinkPad E580,"15.6""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon RX 550,256GB SSD
+f141,Lenovo ThinkPad L470 Intel Core i5 7200U 2.5GHz,463203.16,Lenovo,ThinkPad L470,"14.0""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+f142,Dell Precision M5520 Intel Core i7 7700HQ 2.8GHz,1339239.84,Dell,Precision M5520,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia Quadro M1200,256GB SSD
+f143,Lenovo Thinkpad X1 Intel Core i7 7500U 2.7GHz,1296277.50,Lenovo,Thinkpad X1,"14.0""",Intel Core i7 7500U 2.7GHz,16GB,Intel HD Graphics 620,1TB SSD
+f144,Lenovo IdeaPad 320-15IAP Intel Celeron Dual Core N3350 1.1GHz,151108.92,Lenovo,IdeaPad 320-15IAP,"15.6""",Intel Celeron Dual Core N3350 1.1GHz,4GB,Intel HD Graphics 500,1TB HDD
+f145,Asus FX753VD-GC461T (i7-7700HQ/16GB/1TB Intel Core i7 7700HQ 2.8GHz,755050.78,Asus,FX753VD-GC461T (i7-7700HQ/16GB/1TB,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050,256GB SSD +  1TB HDD
+f146,Lenovo ThinkPad E580 Intel Core i5 8250U 1.6GHz,565176.99,Lenovo,ThinkPad E580,"15.6""",Intel Core i5 8250U 1.6GHz,8GB,AMD Radeon RX 550,256GB SSD +  1TB HDD
+f147,Acer Aspire 7 Intel Core i7 7700HQ 2.8GHz,434067.78,Acer,Aspire 7,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GTX 1050,256GB SSD
+f148,MSI GE73VR 7RF Intel Core i7 7700HQ 2.8GHz,1110601.18,MSI,GE73VR 7RF,"17.3""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1070,256GB SSD +  1TB HDD
+f149,Asus Zenbook 3 Intel Core i7 7500U 2.7GHz,924924.86,Asus,Zenbook 3,"14.0""",Intel Core i7 7500U 2.7GHz,8GB,Intel HD Graphics 620,512GB SSD
+f150,Toshiba Portege Z30-C-16P Intel Core i7 6500U 2.5GHz,862703.54,Toshiba,Portege Z30-C-16P,"13.3""",Intel Core i7 6500U 2.5GHz,16GB,Intel HD Graphics 520,512GB SSD
+f151,Dell Latitude 7480 Intel Core i7 7600U 2.8GHz,829617.60,Dell,Latitude 7480,"14.0""",Intel Core i7 7600U 2.8GHz,8GB,Intel HD Graphics,512GB SSD
+f152,Lenovo IdeaPad 320-15ISK Intel Core i3 6006U 2GHz,201972.38,Lenovo,IdeaPad 320-15ISK,"15.6""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,500GB HDD
+f153,Lenovo Lenovo IdeaPad Intel Celeron Dual Core N3350 1.1GHz,150343.50,Lenovo,Lenovo IdeaPad,"11.6""",Intel Celeron Dual Core N3350 1.1GHz,2GB,Intel HD Graphics 500,32GB Flash Storage
+f154,Lenovo ThinkPad P51 Intel Core i7 7700HQ 2.8GHz,950603.50,Lenovo,ThinkPad P51,"15.6""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia Quadro M1200,512GB SSD
+f155,Lenovo Thinkpad T470p Intel Core i7 7700HQ 2.8GHz,959492.26,Lenovo,Thinkpad T470p,"14.0""",Intel Core i7 7700HQ 2.8GHz,8GB,Nvidia GeForce GT 940MX,512GB SSD
+f156,HP 15-BS028nv (i3-6006U/4GB/1TB/Radeon Intel Core i3 6006U 2GHz,231601.58,HP,15-BS028nv (i3-6006U/4GB/1TB/Radeon,"15.6""",Intel Core i3 6006U 2GHz,4GB,AMD Radeon 520,1TB HDD
+f157,Acer Aspire R7 Intel Core i7 6500U 2.5GHz,389628.92,Acer,Aspire R7,"13.3""",Intel Core i7 6500U 2.5GHz,8GB,Intel HD Graphics 520,256GB SSD
+f158,Asus ZenBook Flip Intel Core i5 7200U 2.5GHz,458264.96,Asus,ZenBook Flip,"13.3""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,256GB SSD
+f159,Dell Inspiron 3567 Intel Core i5 7200U 2.5GHz,295748.80,Dell,Inspiron 3567,"15.6""",Intel Core i5 7200U 2.5GHz,4GB,AMD Radeon R5 M430,256GB SSD
+f160,Dell Latitude 3380 Intel Core i3 6006U 2GHz,340241.98,Dell,Latitude 3380,"13.3""",Intel Core i3 6006U 2GHz,4GB,Intel HD Graphics 520,128GB SSD
+f161,HP EliteBook 1040 Intel Core i7 6500U 2.5GHz,740730.00,HP,EliteBook 1040,"14.0""",Intel Core i7 6500U 2.5GHz,8GB,Intel HD Graphics 520,256GB SSD
+f162,Dell Inspiron 3567 Intel Core i5 7200U 2.5GHz,266638.11,Dell,Inspiron 3567,"15.6""",Intel Core i5 7200U 2.5GHz,8GB,Intel HD Graphics 620,1TB HDD
+f163,Lenovo ThinkPad E480 Intel Core i7 8550U 1.8GHz,600178.95,Lenovo,ThinkPad E480,"14.0""",Intel Core i7 8550U 1.8GHz,8GB,AMD Radeon RX 550,256GB SSD
+f164,Lenovo Yoga 720-15IKB Intel Core i7 7700HQ 2.8GHz,937764.18,Lenovo,Yoga 720-15IKB,"15.6""",Intel Core i7 7700HQ 2.8GHz,16GB,Nvidia GeForce GTX 1050,512GB SSD
+f165,Chuwi LapBook 12.3 Intel Celeron Quad Core N3450 1.1GHz,221725.18,Chuwi,LapBook 12.3,"12.3""",Intel Celeron Quad Core N3450 1.1GHz,6GB,Intel HD Graphics 500,64GB Flash Storage
