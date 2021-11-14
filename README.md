@@ -29,3 +29,5 @@ Depending on the categories of equipment, some characteristics differ, for examp
 For example, here is a diagram showing the average price of a TV depending on its brand:
 
 ![alt text](https://github.com/adilbekishev/CSS503_Supra_Team_9/blob/main/tv_price_brand.PNG)
+
+The work that was done during this project gave some of us the opportunity to learn how to use the Python language, and some of us to remember what we once knew. Also, the work required learning how to use libraries for analyzing and visualizing data, and we also used Google Sheets for data visualization.
