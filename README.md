@@ -14,3 +14,16 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 ``` 
+
+Here is some examples how our dataset looks like
+Dataset of smartphones:
+
+![alt text](https://github.com/adilbekishev/CSS503_Supra_Team_9/blob/main/phones.PNG)
+
+Dataset of refrigerators:
+
+![alt text](https://github.com/adilbekishev/CSS503_Supra_Team_9/blob/main/fridges.PNG)
+
+Depending on the categories of equipment, some characteristics differ, for example, such devices as smartphones and laptops can have much more characteristics that the store provides, in contrast to the same refrigerators.
+
+
